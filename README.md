@@ -31,9 +31,3 @@ Getting the data
 Clone the repository:
 git clone https://github.com/Todai-ops/DNDP-Networks.git
 The location-specific files will be available under DNDP-Networks/Networks/.
-Associated manuscript
-Sharma, A., Balakrishnan, S., & Honda, R. Strengthening the Structural Foundations of Road Network Resilience through Limited Link Additions. Research manuscript.
-Data provenance and reuse
-The network collection is derived from OpenStreetMap-related road-network data. Users should consult the original dataset and OpenStreetMap attribution and licensing requirements before redistribution or reuse. No additional data license is asserted by this README.
-Scope
-This repository currently hosts network datasets only. Optimization outputs, selected link sets, numerical results, and source code are outside its present scope.
